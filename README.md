@@ -1,4 +1,4 @@
-# Cpp-applications
+# Cpp Applications
 This repository includes work done through CS courses at OSU to show knowledge of C++.
 
 # Wizard Logbook
